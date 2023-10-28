@@ -36,7 +36,7 @@ span.frac > span {display: none;}
 **`Q`**: Rasyonel sayılar `(..., -1/2, -1/5, 2/5, 3/4, 9/5, ...)`
 **`Q'`**: İrrasyonel sayılar `(..., e=2.718281828459045, π=3.14159265359, ...)`
 </td>
-<td markdown=1 class=col><img width="300" src="https://matematikproje.files.wordpress.com/2017/03/sayi-kumeleri1.jpg?w=640" alt="Sayı kümeleri">
+<td markdown=1 class=col><img width="300" src="https://matematikproje.files.wordpress.com/2017/03/sayi-kumeleri1.jpg" alt="Sayı kümeleri">
 </td>
 </table>
 
@@ -108,7 +108,7 @@ EKOK(a,b) = <span class="frac"><sup>|a * b|</sup><span>&frasl;</span><sub>EBOB(a
 <br><br><br>
 
 </td>
-<td class=col markdown=1 width=45%><div class=crop><img width=450px src="https://gcdnb.pbrd.co/images/RUjH3FIvFXKS.png?o=1">
+<td class=col markdown=1 width=45%><div class=crop><img width=450px src="https://github.com/OFN01/MyEducation/blob/main/11/data/Matematik-EBOB-EKOK.png?raw=true">
 </div>
 </td>
 </table>

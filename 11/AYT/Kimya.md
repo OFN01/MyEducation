@@ -28,6 +28,7 @@ frac > sup {border-bottom: 0.08em solid;}
 # AYT-Kimya
 </div>
 
+---
 
 # Modern Atom Teorisi
 
@@ -131,3 +132,45 @@ Elektronlar temel halde düşük enerjili orbitalden yüksek enerjili olana doğ
 Elektronlar, eş enerjili orbitallere yerleştirilirken önce boş orbitallere aynı spinli olarak yerleştirilir, hepsi dolduktan sonra mevcut olanlara zıt spinli olarak yerleştirilir.
 
 <img height=25m src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-hund-kuralı.png?raw=true">
+
+### Atomların Elektron Dizilimleri {#temel-hal-elektron-dizilimi}
+<sub>6</sub>Li: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>2</sup>
+<img height=15pm src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-tam-orbital.png?raw=true"> <img height=15pm src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-tam-orbital.png?raw=true"> <img height=15pm src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-tam-orbital.png?raw=true"><img height=15pm src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-boş-orbital.png?raw=true"><img height=15pm src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-boş-orbital.png?raw=true">
+
+Ayrıca,
+<sub>16</sub>S: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>4</sup>
+kısaltılarak şöyle de yazılabilir:
+<sub>16</sub>S: [<sub>10</sub>Ne] 3s<sup>2</sup> 3p<sup>4</sup>
+
+### Küresel Simetrik Elektron Dizilimi
+s<sup>1</sup>,s<sup>2</sup>,
+p<sup>3</sup>,p<sup>6</sup>,
+d<sup>5</sup>,d<sup>10</sup>,
+f<sup>7</sup>,f<sup>14</sup>,
+`yarım` ya da `tam` dolu orbitallerdir.
+Son orbitalleri tam ya da yarım dolu olan atomlar `küresel simetriktir` ve daha kararlıdırlar, elektron koparmak daha zordur ve **iyonlaşma enerjileri yüksektir**.
+
+### Uyarılmış Hâl Elektron Dizilimi
+`Temel Haldeki` atome enerji verilirse elektronları daha yüksek enerjili **orbitale** ya da **katmana** geçebilir, buna atomun uyarılması denir ve `uyarılmış` atomlar **Aufbau** kuralına uymaz.
+
+### İyonların Elektron Dizilimi
+X<sup>y+</sup> bir anyon ve X<sup>y-</sup> bir katyondur.
+Anyonların dizilimi elektron sayısına göre yapılır.
+Katyonların dizilimi yapılırken önce temel hâl dizilimi yapılır, sonra sırasyla baş kuantum sayısı büyük olandan elektron koparılır.
+
+## Periyodik Sistem
+- Artan atom numaralarına göre sıralıdır.
+- 7 periyot ve 18 grup vardır.
+
+### Değerlik Orbitali ve Değerlik Elektronları
+Atomun genellikle en yüksek enerji düzeyindeki orbitallere `değerlik orbitaller`, bu orbitaldeki elektronlar ise `değerlik elektronlar` olarak adlandırılır.
+
+### Periyodik Sistemde Yer Belirleme
+Elementin [temel hâl atom diziliminde](#temel-hal-elektron-dizilimi) son orbital türü bloku belirler. En büyük baş kuantum sayısı ise periyot numarasıdır.
+`s ve p` blokları A grubunda, `d` bloku ise B grubundadır.
+<sub>2</sub>He dışındaki elementlerin `değerlik elektron sayısı` grup numarasına eşittir.
+
+A grubu elementlerinin konumları belirlenirken,
+en büyük baş kuantum sayılı orbitallerin içerdiği elektronlar değerlik elektronlardır.
+B grubu elementlerinin konumları belirlenirken ise,
+`ns` ve `(n-1)d` orbitallerindeki elektronlar değerlik elektronlardır.
