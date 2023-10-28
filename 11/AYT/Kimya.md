@@ -118,9 +118,9 @@ Orbitallerin enerjileri kıyaslanırken:
 ### Pauli İlkesi
 Bir atomda bütün kuantum sayıları aynı olan iki atum bulunamaz.
 Bir orbitalde en fazla iki elektron bulunur.
-Boş orbitaller <img height=15pm src="https://gcdnb.pbrd.co/images/TnfZNQKUeivM.png?o=1">,
-yarım dolu orbitaller <img height=15pm src="https://gcdnb.pbrd.co/images/T7BTzciM8kSh.png?o=1"> ya da <img height=15pm src="https://gcdnb.pbrd.co/images/xidjIky6kMjB.png?o=1">,
-tam dolu orbitaller ise <img height=15pm src="https://gcdnb.pbrd.co/images/6exeU8MEcvuQ.png?o=1">
+Boş orbitaller <img height=15pm src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-boş-orbital.png?raw=true">,
+yarım dolu orbitaller <img height=15pm src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-yarım-orbital-1.png?raw=true"> ya da <img height=15pm src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-yarım-orbital-2.png?raw=true">,
+tam dolu orbitaller ise <img height=15pm src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-tam-orbital.png?raw=true">
 şeklinde gösterilir.
 
 ### Aufbau Kuralı
@@ -130,4 +130,4 @@ Elektronlar temel halde düşük enerjili orbitalden yüksek enerjili olana doğ
 ### Hund Kuralı
 Elektronlar, eş enerjili orbitallere yerleştirilirken önce boş orbitallere aynı spinli olarak yerleştirilir, hepsi dolduktan sonra mevcut olanlara zıt spinli olarak yerleştirilir.
 
-<img height=25m src="https://gcdnb.pbrd.co/images/OH4BVF0x1hjU.png?o=1">
+<img height=25m src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-hund-kuralı.png?raw=true">
