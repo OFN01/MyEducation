@@ -32,7 +32,7 @@
 
 ## Beynin Bölümleri
 
-<image width="348" align="center" src="https://gcdnb.pbrd.co/images/vncQrrYFlcnD.png?o=1" alt="Refleks Yayı">
+<image width="348" align="center" src="https://github.com/OFN01/MyEducation/blob/main/11/data/Biyoloji-merkezi-sinir-sistemi-ağacı.png?raw=true" alt="Refleks Yayı">
 
 ## Beleş Soru
 <div align="center" markdown="1">
@@ -168,7 +168,7 @@
 <br>
 
 ## Refleks Yayı
-<image width="348" align="center" src="https://www.bilgial.com/wp-content/uploads/2019/09/Omurili%C4%9Fin-enine-kesiti.png" alt="Refleks Yayı">
+<image width="348" align="center" src="https://www.bilgial.com/wp-content/uploads/2019/09/Omurili%C4%9Fin-enine-kesiti.png" alt="Omurilik">
 
 <br>
 
