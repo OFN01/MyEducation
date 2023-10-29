@@ -223,3 +223,16 @@ Ametallerin oksijence fakir oksitleri **nötr oksit**
 Hidrojenli bileşiklerin asidik özellikleri sağ-aşağı artar.
 
 <img src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-periyodik-tablo-sonuç.png?raw=true">
+
+## Elementler:
+1A: Alkali Metaller
+2A: Toprak Alkali Metaller
+3A: Toprak Metalleri
+4A: Karbon Grubu
+5A: Azot Grubu
+6A: Kalkojenler
+7A: Halojenler
+8A: Soy Gazlar
+
+d blok: Geçiş Metalleri
+f blok: İç Geçiş Metalleri
