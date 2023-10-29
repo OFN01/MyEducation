@@ -153,38 +153,73 @@ Son orbitalleri tam ya da yarım dolu olan atomlar `küresel simetriktir` ve dah
 ### Uyarılmış Hâl Elektron Dizilimi
 `Temel Haldeki` atome enerji verilirse elektronları daha yüksek enerjili **orbitale** ya da **katmana** geçebilir, buna atomun uyarılması denir ve `uyarılmış` atomlar **Aufbau** kuralına uymaz.
 
-### İyonların Elektron Dizilimi
+### İyonların Elektron Dizilimi {#anyon-katyonlar}
 X<sup>y+</sup> bir anyon ve X<sup>y-</sup> bir katyondur.
 Anyonların dizilimi elektron sayısına göre yapılır.
 Katyonların dizilimi yapılırken önce temel hâl dizilimi yapılır, sonra sırasyla baş kuantum sayısı büyük olandan elektron koparılır.
+
+<br><br><br>
 
 ## Periyodik Sistem
 - Artan atom numaralarına göre sıralıdır.
 - 7 periyot ve 18 grup vardır.
 
-### Değerlik Orbitali ve Değerlik Elektronları
+### Değerlik Orbitali ve Değerlik Elektronları {#değerlik-elektronlar}
 Atomun genellikle en yüksek enerji düzeyindeki orbitallere `değerlik orbitaller`, bu orbitaldeki elektronlar ise `değerlik elektronlar` olarak adlandırılır.
 
 Sonu s ya da p orbitali ile biten elementlerinin değerlik elektronları en büyük baş kuantum sayılı orbitallerin içerdiği elektronlardır.
 Sonu d ile biten elementlerinin değerlik elektronları belirlenirken ise,
 `ns` ve `(n-1)d` orbitallerindeki elektronlar değerlik elektronlardır.
 
-### Periyodik Sistemde Yer Belirleme
+### Periyodik Sistemde Yer Belirleme {#periyodik-konum-belirleme}
 Elementin [temel hâl atom diziliminde](#temel-hal-elektron-dizilimi) son orbital türü bloku belirler. En büyük baş kuantum sayısı periyot numarasıdır.
 `s ve p` blokları A grubunda, `d` bloku ise B grubundadır.
-<sub>2</sub>He dışındaki elementlerin `değerlik elektron sayısı` grup numarasına eşittir.
+<sub>2</sub>He dışındaki elementlerin [değerlik elektron sayısı](#değerlik-elektronlar) grup numarasına eşittir.
 
 ## Periyodik Özellikler
 
-### Atom ve İyon Yarıçapı
+### Atom ve İyon Yarıçapı {#atom-yarıçapı}
 <table class=ncol markdown=1>
 <td class=col width=60%>
 <img src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-atom-yarıçapı-tablosu.png?raw=true">
 </td>
-<td class=col width=40% markdown=1>
-
-Atom çapları,
+<td class=col width=40% markdown=1>Periyodik tabloda atom çapları,
 - yukarıdan aşağı gidildikçe büyür.
 - soldan sağa gidildikçe küçülür.
+
+Aynı katmandaki elektronlardan proton sayısı büyük olan atomum yarıçapı daha küçüktür.
+[Anyon ve Katyonlar](#anyon-katyonlar)da elektron başına düşen çekim kuvveti <frac><sup><code>p<sup>+</sup> sayısı</code></sup></sub><code>e<sup>-</sup> sayısı</code></sub></frac> ile orantılıdır.
 </td>
 </table>
+
+### İyonlaşma Enerjisi
+Gaz halindeki taneciklerden elektron koparmak için gerekli olan enerjidir.
+Çapla ters orantılıdır.
+Her atomun elektron sayısı kadar iyonlaşma enerjisi vardır.
+Preiyot boyunca soldan sağa gidildikçe iyonlaşma enerjisi artar.
+2A ve 5A küresel simetrik olduğundan dolayı buna uymaz, `2 aşağı, 5 yukarı` geçerlidir.
+`1A` < `3A` < `2A` < `4A` < `6A` < `5A` < `7A` < `8A`
+şeklinde sıralanır.
+
+### Elektron İlgisi
+Gaz halindeki bir atoma elektron verilmek için gereken ya da verilince ortaya çıkan enerjidir.
+Preiyodik tabloda, yukarıdan aşağı **azalır**, soldan sağa **artar**.
+
+### Metalik ve Ametalik Özellik
+Metalik aktiflik sol-aşağı gidildikçe, ametalik özellik ise sağ-yukarı gidildikçe artar. Elektron verme eğilimi arttıkça metalik, alma eğilimi arttıkça ametalik özellik artar.
+
+### Elektronnegatiflik
+Atomun kimyasal bağlardaki elektron çekme gücüdür.
+Enerji alışverişi yoktur, birlikte kullanılan elektronları çekme isteğidir.
+Sağ-yukarı gidildikçe artar.
+
+### Asitlik ve Bazlık
+Metallerin oksitleri **bazik**, (H<sup>+</sup>)
+ametallerin oksitleri **asidiktir**. (OH<sup>-</sup>)
+Ametallerin oksijence fakir oksitleri **nötr oksit**
+`Zn, Pb, Al, Sn, Cr, Be` elementlerinin oksitlerine **amfoter oksit** denir. Aside karşı baz, baza karşı asit gibi davranır.
+
+### Hidrojenli Bileşiklerin Asitlik-Bazlık Özelliği
+Hidrojenli bileşiklerin asidik özellikleri sağ-aşağı artar.
+
+<img src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-periyodik-tablo-sonuç.png?raw=true">
