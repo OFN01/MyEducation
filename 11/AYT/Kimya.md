@@ -165,12 +165,26 @@ Katyonların dizilimi yapılırken önce temel hâl dizilimi yapılır, sonra s�
 ### Değerlik Orbitali ve Değerlik Elektronları
 Atomun genellikle en yüksek enerji düzeyindeki orbitallere `değerlik orbitaller`, bu orbitaldeki elektronlar ise `değerlik elektronlar` olarak adlandırılır.
 
+Sonu s ya da p orbitali ile biten elementlerinin değerlik elektronları en büyük baş kuantum sayılı orbitallerin içerdiği elektronlardır.
+Sonu d ile biten elementlerinin değerlik elektronları belirlenirken ise,
+`ns` ve `(n-1)d` orbitallerindeki elektronlar değerlik elektronlardır.
+
 ### Periyodik Sistemde Yer Belirleme
-Elementin [temel hâl atom diziliminde](#temel-hal-elektron-dizilimi) son orbital türü bloku belirler. En büyük baş kuantum sayısı ise periyot numarasıdır.
+Elementin [temel hâl atom diziliminde](#temel-hal-elektron-dizilimi) son orbital türü bloku belirler. En büyük baş kuantum sayısı periyot numarasıdır.
 `s ve p` blokları A grubunda, `d` bloku ise B grubundadır.
 <sub>2</sub>He dışındaki elementlerin `değerlik elektron sayısı` grup numarasına eşittir.
 
-A grubu elementlerinin konumları belirlenirken,
-en büyük baş kuantum sayılı orbitallerin içerdiği elektronlar değerlik elektronlardır.
-B grubu elementlerinin konumları belirlenirken ise,
-`ns` ve `(n-1)d` orbitallerindeki elektronlar değerlik elektronlardır.
+## Periyodik Özellikler
+
+### Atom ve İyon Yarıçapı
+<table class=ncol markdown=1>
+<td class=col width=60%>
+<img src="https://github.com/OFN01/MyEducation/blob/main/11/data/Kimya-atom-yarıçapı-tablosu.png?raw=true">
+</td>
+<td class=col width=40% markdown=1>
+
+Atom çapları,
+- yukarıdan aşağı gidildikçe büyür.
+- soldan sağa gidildikçe küçülür.
+</td>
+</table>
