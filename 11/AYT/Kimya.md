@@ -232,7 +232,11 @@ Hidrojenli bileşiklerin asidik özellikleri sağ-aşağı artar.
 5A: Azot Grubu
 6A: Kalkojenler
 7A: Halojenler
-8A: Soy Gazlar
+8A: Soy Gazlar:
 
 d blok: Geçiş Metalleri
 f blok: İç Geçiş Metalleri
+
+## Yükseltgenme Basamakları
+Bir atomun bileşik yaparken aldığı verdiği ya da birlikte kullandığı elektron sayısına **yükseltgenme basamağı** denir.
+(Anlamak için soru çöz!)
