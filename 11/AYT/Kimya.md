@@ -208,7 +208,7 @@ Preiyodik tabloda, yukarıdan aşağı **azalır**, soldan sağa **artar**.
 ### Metalik ve Ametalik Özellik
 Metalik aktiflik sol-aşağı gidildikçe, ametalik özellik ise sağ-yukarı gidildikçe artar. Elektron verme eğilimi arttıkça metalik, alma eğilimi arttıkça ametalik özellik artar.
 
-### Elektronnegatiflik
+### Elektronegatiflik
 Atomun kimyasal bağlardaki elektron çekme gücüdür.
 Enerji alışverişi yoktur, birlikte kullanılan elektronları çekme isteğidir.
 Sağ-yukarı gidildikçe artar.

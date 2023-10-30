@@ -1,0 +1,28 @@
+table.ncol {
+    background: transparent !important;
+    border: 0px !important;
+    width: 100% !important;
+}
+
+.col {
+    background: transparent !important;
+    border: 0px !important;
+}
+
+
+frac {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+
+frac>sup,
+frac>sub {
+    display: block;
+    font: inherit;
+    padding: 0 0.3em;
+}
+
+frac>sup {
+    border-bottom: 0.08em solid;
+}
